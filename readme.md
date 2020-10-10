@@ -1,4 +1,3 @@
-## Halo
-Pesan pertama
+## Halo Git
 
-## Perubahan Kedua
+saya telah berhasil menambahkan file baru di github
